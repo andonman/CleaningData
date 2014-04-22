@@ -11,10 +11,10 @@ For example my working home directory is Desktop:
 [1] "C:/Users/admin/Desktop"
 
 
-The R script (run_Analysis.R) encompasses the codes for:
+The R script (run_Analysis.R) does the following :
 reading different pieces of data into R,
 combining these pieces to obtain the full large Data (data dimension: 10299*563),
-Adding descriptive names for each activity,
+Then the script does adding descriptive names for each activity,
 fixing unusual features of variable names,
 calculating the average value of each variable for each subject and each activity and creat new independent data set (data dimension: 180*88),
 export the data into a txt file named on "tidyData".
