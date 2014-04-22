@@ -22,6 +22,7 @@ export the data into a txt file named on "tidyData".
 
 The Guide for interpreting each variable
 ========================================
+
 t (at the beginning of the variable names): time domain signals
 f (at the beginning of the variable names): frequency domain signals
 mean: Mean value
