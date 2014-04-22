@@ -24,17 +24,32 @@ The Guide for interpreting each variable
 ========================================
 
 t (at the beginning of the variable names): time domain signals
+
 f (at the beginning of the variable names): frequency domain signals
+
 mean: Mean value
+
 std: Standard deviation
+
 meanFreq: Weighted average of the frequency components to obtain a mean frequency
+
 angle: Angle between to vectors
+
 X, Y, Z: the axis of X, Y and Z (signals can be in the X, Y and Z directions)
+
 Acc: Acceleration signal from the smartphone accelerometer (sensor signal).
+
 Gyr: Angular velocity from the smartphone gyroscope (sensor signal).
+
 Body: The signals related to the body of subject (individual) who has been examined.
+
 Jerk: Jerk signals (the body linear acceleration and angular velocity were derived in time to reach this signal)
+
 Mag: magnitude of the three-dimensional signals calculated using the Euclidean norm
+
 Gravity: The signals related to the gravity.
+
 Subject: The numbers between 1 to 30 which are identifiers of the subjects (individuals) who carried out the experiment.
+
 Activity: including 6 activities performed by subjects (STANDING, SITTING, LAYING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS)
+
